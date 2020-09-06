@@ -1,3 +1,4 @@
+clear
 # Ruby Objects Has Many Lab
 
 ## Objectives
